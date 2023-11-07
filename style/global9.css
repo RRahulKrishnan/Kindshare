@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-nunito-sans: "Nunito Sans";
+  --font-dm-sans: "DM Sans";
+
+  /* font sizes */
+  --font-size-2xl: 21px;
+  --font-size-53xl: 72px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-dimgray: #4d4d4d;
+  --color-black: #000;
+  --color-lavender: #d0daf5;
+}
